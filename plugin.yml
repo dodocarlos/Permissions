@@ -1,0 +1,6 @@
+name: dPermissions
+main: me.dodocarlos.permissions.Main
+version: 0.1
+author: DodoCarlos
+commands:
+  perm:

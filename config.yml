@@ -1,0 +1,13 @@
+#Tag das mensagens
+Tag: "&f{&6&lServer&f} "
+
+#Cores das mensagens(InfoColor = Cores de informacoes | DefaultColor = Cor geral das mensagens)
+InfoColor: "&6&l"
+DefaultColor: "&f"
+
+#Conexao com o mysql
+MySQL:
+  host: localhost
+  db: permissions
+  user: root
+  pass: usbw
